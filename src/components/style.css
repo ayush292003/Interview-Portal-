@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.textContainer {
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.textFont {
+  font-family: "Poppins", sans-serif !important;
+}
+
+.editResume {
+  margin-top: 15px !important;
+}
+
+.container {
+  border: 2px solid black;
+  border-radius: 40px;
+  margin-bottom: 25px;
+}
